@@ -7,8 +7,8 @@ I'm a passionate and experienced full stack developer with a keen interest in Re
 💻 When I'm not busy coding, you can find me exploring the latest tech trends, sharpening my skills, and staying up-to-date with the ever-evolving world of web development. Let's connect and embark on this exciting journey together!
 
 🔗 Connect with me:
--LinkedIn: https://www.linkedin.com/in/charakasa
--Facebook: https://www.facebook.com/CharakaAndaraweera
--📧 Email: charakasahira@gmail.com
+- LinkedIn: https://www.linkedin.com/in/charakasa
+- Facebook: https://www.facebook.com/CharakaAndaraweera
+- 📧 Email: charakasahira@gmail.com
 
 Let's collaborate and create remarkable digital experiences! ✨
